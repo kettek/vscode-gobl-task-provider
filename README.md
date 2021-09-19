@@ -27,4 +27,4 @@ func main() {
 }
 ```
 
-See the [pkg documentation](https://pkg.go.dev/github.com/kettek/gobl/gobl#GoblTask) for more steps and documentation.
+See the [pkg documentation](https://pkg.go.dev/github.com/kettek/gobl/pkg/task#Task) for more steps and documentation.
